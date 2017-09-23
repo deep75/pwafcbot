@@ -4,6 +4,8 @@
 
 ![enter image description here](https://jaanus.com/images/voicebot-components.png).
 
+![enter image description here](http://insanelab.com/wp-content/uploads/2017/01/progressive-web-apps-infographic-1120x1680.jpg)
+
 Et utilisant api.ai :
 
 ![enter image description here](https://jaanus.com/images/voicebot-backend.png)
