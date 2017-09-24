@@ -13,3 +13,7 @@ Et utilisant api.ai :
 Plus d'infos sur [ce blog](https://jaanus.com/api-ai-voicebot/)
 
 ![enter image description here](https://jaanus.com/images/voicebot-frontend-statemachine.jpg)
+
+Utilisation de Firebase Hosting :
+
+![enter image description here](https://i.ytimg.com/vi/QLVzozWDYAs/maxresdefault.jpg)
