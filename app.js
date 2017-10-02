@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   // Now we’ve established that the browser is Chrome with proper speech API-s.
 
   // api.ai client
-  const apiClient = new ApiAi.ApiAiClient({accessToken: 'd9aa3760b04e492f8f4c63fd59c327ed'});
+  const apiClient = new ApiAi.ApiAiClient({accessToken: 'API.AI_ACCESS_TOKEN'});
 
   // Initial feedback message.
   addBotItem("Bonjour, cliquez sur le symbole du microphone et commencez à parler !");
